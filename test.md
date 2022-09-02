@@ -4,12 +4,6 @@
 
 ```ts
 
-import { MOUSE } from 'three';
-import { PerspectiveCamera } from 'three';
-import { Scene as Scene_2 } from 'three';
-import { TOUCH } from 'three';
-import { Vector3 } from 'three';
-import { WebGLRenderer } from 'three';
 
 // @public (undocumented)
 let app: (el: string | HTMLDivElement) => {
